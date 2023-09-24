@@ -1,5 +1,5 @@
 # Mesh and Network Traversal
-This repository contains solutions for traversing a mesh and a network, crucial for generating 3D-printable scripts in Rhino using Grasshopper. The exercises and their corresponding solutions are structured as follows:
+This repository contains solutions for traversing a mesh and a network, crucial for generating 3D-printable scripts in Grasshopper. The exercises and their corresponding solutions are structured as follows:
 
 ## 1 - Mesh Traverse
 Task: Define a function for traversing a mesh from boundary to boundary in a "straight" line and visualize the result.
