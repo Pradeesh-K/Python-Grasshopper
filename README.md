@@ -10,15 +10,17 @@ Delve into a dynamic multi-snowflake pattern, each with unique sizes and positio
 **Recursive Triangular Spiral:**
 Experience the intricacies of a recursive triangular spiral, a captivating pattern crafted through the power of recursion.
 
+**Note: Each of the above folders has images of the final visual output**
+
 **Three-Part Script Breakdown**
 This repository is organized into three distinct parts, each contributing to the development of comprehensive knowledge and the creation of intricate patterns and functional scripts:
-Part 1: Python Basics in Visual Programming
+#### Part 1: Python Basics in Visual Programming
 Acquire foundational knowledge in Python, particularly focusing on its application within visual programming.
 Explore essential classes such as Points, Polylines, and more, setting the stage for creating engaging visuals.
-Part 2: Intriguing 2D and 3D Patterns Using Recursion
+#### Part 2: Intriguing 2D and 3D Patterns Using Recursion
 Delve into the world of recursion and its application in crafting visually stunning patterns in both 2D and 3D dimensions.
 Witness the power of recursion as it brings these captivating patterns to life.
-Part 3: Traversing a Mesh and Network in Rhino
+#### Part 3: Traversing a Mesh and Network in Rhino
 Learn the art of traversing a Mesh and Network within Rhino, a critical skill for planning precise paths, particularly beneficial in the context of 3D printing.
 These scripts, born from assignments and guided learning, equip you with the skills to create engaging visual patterns and functional scripts. They are especially useful for planning intricate paths crucial for advanced applications like 3D printing.
 
