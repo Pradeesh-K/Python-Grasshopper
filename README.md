@@ -14,6 +14,7 @@ Experience the intricacies of a recursive triangular spiral, a captivating patte
 
 **Three-Part Script Breakdown**
 This repository is organized into three distinct parts, each contributing to the development of comprehensive knowledge and the creation of intricate patterns and functional scripts:
+
 #### Part 1: Python Basics in Visual Programming
 Acquire foundational knowledge in Python, particularly focusing on its application within visual programming.
 Explore essential classes such as Points, Polylines, and more, setting the stage for creating engaging visuals.
