@@ -2,7 +2,7 @@
 
 This repository contains solutions for a series of Python exercises completed in the context of Grasshopper scripting, aimed at mastering Python basics. The exercises and their corresponding solutions are structured as follows:
 
-**Multiply Items in a List:**<br />
+**Multiply Items in a List:**-
 multiply_list function takes a list of numbers and multiplies all the elements to produce a result.<br />
 **Sort List Based on Tuple's Last Element:**<br />
 sort_list_based_on_last_element function sorts a list of tuples based on their last element in increasing order.<br />
