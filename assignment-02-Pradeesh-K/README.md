@@ -1,4 +1,4 @@
-****# Assignment 2: Grasshopper scripting ********<br />
+# Assignment 2: Grasshopper scripting
 This repository contains solutions for a set of Python exercises and recursive function challenges in Grasshopper. The exercises are divided into two parts:
 
 **## Part 1: Vector Calculations<br />
