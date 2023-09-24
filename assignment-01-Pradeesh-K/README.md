@@ -12,10 +12,12 @@ The provided script generates a nested list representing 2D point coordinates, c
 find_largest_number function identifies and returns the largest number from a given list.<br />
 **Polyline Class to Calculate Length:**<br />
 Polyline class utilizes the Point3d class to define a polyline and compute its length.<br />
-<br /><br />
+<br />
 #**Learnings and Insights**<br />
+
 Through this series of exercises, I gained a solid understanding of Python fundamentals within the specific context of Grasshopper scripting. Key takeaways include:
 <br />
+
 **Understanding Python Syntax and Constructs:**<br />
 Familiarity with Python syntax, data types, loops, functions, and conditionals is crucial for efficient scripting.<br />
 **Working with Lists and Tuples:**<br />
