@@ -1,8 +1,8 @@
-****#Assignment 2: Grasshopper scripting ********<br />
+****# Assignment 2: Grasshopper scripting ********<br />
 This repository contains solutions for a set of Python exercises and recursive function challenges in Grasshopper. The exercises are divided into two parts:
 
-**##Part 1: Vector Calculations<br />
-####1a: Orthonormal Vectors**<br />
+**## Part 1: Vector Calculations<br />
+#### 1a: Orthonormal Vectors**<br />
 Task: Generate three orthonormal vectors using the cross product of two given vectors.
 Learnings: Understanding vector operations, particularly the cross product, to derive orthonormal vectors.<br />
 **####1b: Polygon Area Calculation**<br />
